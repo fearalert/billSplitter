@@ -10,4 +10,5 @@ This project is a tip Calculator App. The Ui of the project was inspired from [h
 
 <img src ="https://user-images.githubusercontent.com/67753397/126490396-f5cd3c9e-ea0d-4605-90be-1cb0c48e59e0.png" width = "250" height = "500" />
 
-<img src ="hhttps://user-images.githubusercontent.com/67753397/126490407-aed71c45-66c0-46d0-a57e-35b54d879bed.png" width = "250" height = "500" />
+<img src ="https://user-images.githubusercontent.com/67753397/126499344-c7d01b24-1835-4a8a-ae67-77f1b635fa7c.png" width = "250" height = "500" />
+
